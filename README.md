@@ -1,7 +1,3 @@
 # Module 6  live test
-<p align="center">
-  <img src="[URL](https://github.com/HasibuliT/Module6LiveTest/assets/66546794/813d2aab-c5af-4024-9ea5-9e31bb73592d)" width="400" height="720"/>
-</p>
-<p align="center">
-  <img src="[URL](https://github.com/HasibuliT/Module6LiveTest/assets/66546794/1fee97ff-ec06-4548-8988-1f8231c403bf)" width="400" height="720"/>
-</p>
+![Screenshot_20230612_233852](https://github.com/HasibuliT/Module6LiveTest/assets/66546794/12830881-78dc-46a1-a457-4b7359393168)
+![Screenshot_20230612_233900](https://github.com/HasibuliT/Module6LiveTest/assets/66546794/4f9e3e72-5324-4343-8c57-5906c407bd27)
